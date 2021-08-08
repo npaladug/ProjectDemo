@@ -1,29 +1,9 @@
-Print Test2 document
+Print test document
 
-new change here also
-
+New Change
 
 Change in project demo using branch
 
+All removed
 
-<<<<<<< HEAD
-Change in project X using branch
-
-Test2.txt
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Changes in develop branch
->>>>>>> develop
+Adding changes for develop2 branches

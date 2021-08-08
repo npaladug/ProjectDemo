@@ -4,7 +4,4 @@ New Change
 
 Change in project demo using branch
 
-
-Change in project X using branch
-
-Test.txt
+All removed

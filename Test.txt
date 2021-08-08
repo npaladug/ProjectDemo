@@ -1,7 +1,2 @@
 Print test document
 
-New Change
-
-Change in project demo using branch
-
-All removed

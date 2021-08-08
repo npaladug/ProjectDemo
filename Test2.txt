@@ -1,16 +1,5 @@
 Print Test2 document
 
-new change here also
-
-
-Change in project demo using branch
-
-
-<<<<<<< HEAD
-Change in project X using branch
-
-Test2.txt
-=======
 
 
 
@@ -19,11 +8,3 @@ Test2.txt
 
 
 
-
-
-
-
-
-
-Changes in develop branch
->>>>>>> develop
